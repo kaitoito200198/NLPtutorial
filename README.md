@@ -1,2 +1,3 @@
 # NLPtutorial
-This is NLPTutorial for begineer
+This is NLPTutorial for begineer 
+this gide helps for begineer
